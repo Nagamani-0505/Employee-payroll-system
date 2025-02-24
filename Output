@@ -1,0 +1,72 @@
+Employee Payroll System Menu
+1. Add Employee
+2. View Employees
+3. Save to File
+4. Load from File
+5. Exit
+Enter your choice: 1
+
+Enter Employee ID: E001
+Enter Name: Alice Johnson
+Enter Basic Salary: 50000
+Enter Allowances: 5000
+Enter Deductions: 2000
+Employee added successfully!
+
+Employee Payroll System Menu
+1. Add Employee
+2. View Employees
+3. Save to File
+4. Load from File
+5. Exit
+Enter your choice: 1
+
+Enter Employee ID: E002
+Enter Name: Bob Smith
+Enter Basic Salary: 60000
+Enter Allowances: 6000
+Enter Deductions: 2500
+Employee added successfully!
+
+Employee Payroll System Menu
+1. Add Employee
+2. View Employees
+3. Save to File
+4. Load from File
+5. Exit
+Enter your choice: 2
+
+Employee ID: E001
+Name: Alice Johnson
+Basic Salary: 50000
+Allowances: 5000
+Deductions: 2000
+Net Salary: 53000
+---------------------------
+
+Employee ID: E002
+Name: Bob Smith
+Basic Salary: 60000
+Allowances: 6000
+Deductions: 2500
+Net Salary: 63500
+---------------------------
+
+Employee Payroll System Menu
+1. Add Employee
+2. View Employees
+3. Save to File
+4. Load from File
+5. Exit
+Enter your choice: 3
+
+Employee records saved successfully!
+
+Employee Payroll System Menu
+1. Add Employee
+2. View Employees
+3. Save to File
+4. Load from File
+5. Exit
+Enter your choice: 5
+
